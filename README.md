@@ -1,4 +1,4 @@
-# A series of jupyter notebooks to go from zero to hero in NLP.
+# A series of jupyter notebooks to go from zero to hero in NLP. (updated every weekend)
 
 This repository contains A-Z techniques for Natural Language Processing for anyone looking to get started in NLP all the way from the roots to the recents developments in huge language models like GPT-3.
 
