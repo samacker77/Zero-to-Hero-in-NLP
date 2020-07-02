@@ -1,5 +1,7 @@
 # A series of jupyter notebooks to go from zero to hero in NLP. (updated every weekend)
 
+! Github doesn't render jupyter notebooks very good. Clone this repo and read on local. Will be updating PDF versions soon.
+
 This repository contains A-Z techniques for Natural Language Processing for anyone looking to get started in NLP all the way from the roots to the recents developments in huge language models like GPT-3.
 
 * The tools/techniques/methods/algorithms mentioned in this repository are same as the ones taught by Daniel Jurafsky in his book "Speech and Language Processing" along with co-author James H. Martin.
