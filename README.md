@@ -18,3 +18,9 @@ This repository can be used by anyone who, want to get started in Natural Langua
 ---
 
 Star this repo & share with anyone who you think can benefit from this resource.
+
+---
+
+### Maintainers 
+
+<a href="https://www.linkedin.com/in/samacker77l/"><img src="images/linkedin.png" align="left" height="65" width="65" ></a>
