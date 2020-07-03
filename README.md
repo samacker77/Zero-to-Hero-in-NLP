@@ -24,9 +24,7 @@ Star this repo & share with anyone who you think can benefit from this resource.
 ##### Follow me on LinkedIn 
 
 <a href="https://www.linkedin.com/in/samacker77l/"><img src="images/linkedin.png" align="left" height="25" width="25" ></a>
-
- 
- 
+<br>
 ##### Go through my visual work experience 
 
 <a href="https://sourcerer.io/samacker77/"><img src="images/visual.png" align="left" height="25" width="25" ></a>
