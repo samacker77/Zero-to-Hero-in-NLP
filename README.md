@@ -1,5 +1,9 @@
 # A series of jupyter notebooks to go from zero to hero in NLP. (updated every weekend)
 
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=Zero-to-Hero-in-NLP.visitor-badge">
+ <p/>
+
 ! Github doesn't render jupyter notebooks very good. Clone this repo and read on local. Will be updating PDF versions soon.
 
 This repository contains A-Z techniques for Natural Language Processing for anyone looking to get started in NLP all the way from the roots to the recents developments in huge language models like GPT-3.
