@@ -1,4 +1,5 @@
-# A series of jupyter notebooks to go from zero to hero in NLP. (with end-to-end NLP projects in python)
+# A series of jupyter notebooks to go from zero to hero in NLP. 
+```with end-to-end projects in python```
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=Zero-to-Hero-in-NLP.visitor-badge">
