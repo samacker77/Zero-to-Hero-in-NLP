@@ -1,6 +1,6 @@
 # A series of jupyter notebooks to go from zero to hero in NLP. 
 
-<h5 style="color:red;">with end-to-end projects in python</h5>
+<h3 style="color:red;">with end-to-end projects in python</h3>
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=Zero-to-Hero-in-NLP.visitor-badge">
