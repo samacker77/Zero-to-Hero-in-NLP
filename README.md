@@ -2,9 +2,8 @@
 
 <h3 style="color:red;">with end-to-end projects in python</h3>
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=Zero-to-Hero-in-NLP.visitor-badge">
- <p/>
+[![HitCount](http://hits.dwyl.com/samacker77/Zero-to-Hero-in-NLP.svg)](http://hits.dwyl.com/samacker77/Zero-to-Hero-in-NLP)
+
 
 ! Github doesn't render jupyter notebooks very good. Clone this repo and read on local. Will be updating PDF versions soon.
 
