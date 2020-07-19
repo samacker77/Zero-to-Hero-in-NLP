@@ -1,5 +1,5 @@
 # A series of jupyter notebooks to go from zero to hero in NLP. 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=samacker77.Zero-to-Hero-in-NLP)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=samacker77.Zero-to-Hero-in-NLP&title=daily%20readers)
 <h3 style="color:red;">with end-to-end projects in python</h3>
 
 ! Github doesn't render jupyter notebooks very good. Clone this repo and read on local. Will be updating PDF versions soon.
