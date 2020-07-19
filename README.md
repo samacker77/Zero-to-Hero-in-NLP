@@ -2,9 +2,6 @@
 
 <h3 style="color:red;">with end-to-end projects in python</h3>
 
-[![HitCount](http://hits.dwyl.com/samacker77/Zero-to-Hero-in-NLP.svg)](http://hits.dwyl.com/samacker77/Zero-to-Hero-in-NLP)
-
-
 ! Github doesn't render jupyter notebooks very good. Clone this repo and read on local. Will be updating PDF versions soon.
 
 This repository contains A-Z techniques for Natural Language Processing for anyone looking to get started in NLP all the way from the roots to the recents developments in huge language models like GPT-3.
